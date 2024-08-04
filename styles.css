@@ -1454,6 +1454,7 @@ button a {
         padding-top: 20px;
         width: 87%;
         overflow-x: hidden;
+        z-index: 999;
     }
 
     .hero-left {
@@ -1794,6 +1795,7 @@ button a {
         padding-right: 35px;
         padding-top: 20px;
         overflow-x: hidden;
+        z-index: 999;
     }
 
     .hero-container {
@@ -2150,7 +2152,7 @@ button a {
     }
 
     .twelve-up h1 {
-        font-size: 30px;
+        font-size: 20px;
     }
 
     .up-app-container {
@@ -2236,6 +2238,7 @@ button a {
         padding-top: 20px;
         width: 81%;
         overflow-x: hidden;
+        z-index: 999;
     }
 
     .connections-banner img {
@@ -2265,8 +2268,8 @@ button a {
     }
 
     .social-media img {
-    width: 30px;
-    height: 40px;
+        width: 30px;
+        height: 40px;
     }
 
     .section-eight-wrapper {
@@ -2299,6 +2302,10 @@ button a {
         left: 5%;
         right: 10%;
         overflow: hidden;
+    }
+
+    .twelve-up h1 {
+        font-size: 20px;
     }
 
     .boxcircledown {
