@@ -2247,6 +2247,17 @@ button a {
         border-radius: 15px;
     }
 
+    .innner-text h1 {
+        margin-top: 2%;
+        margin-bottom: 5%;
+        font-size: 35px;
+    }
+
+    .innner-text p {
+        letter-spacing: 1.5%;
+        font-size: 17px;
+    }
+
     .social-media {
         display: flex;
         gap: 1rem;
