@@ -2239,7 +2239,7 @@ button a {
     }
 
     .connections-banner img {
-        width: 338px;
+        width: 320px;
         height: 219px;
         align-items: center;
         justify-self: center;
@@ -2251,6 +2251,11 @@ button a {
         display: flex;
         gap: 1rem;
         margin-top: 8%;
+    }
+
+    .social-media img {
+    width: 30px;
+    height: 40px;
     }
 
     .section-eight-wrapper {
