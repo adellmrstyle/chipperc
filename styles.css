@@ -1791,11 +1791,11 @@ button a {
 
 @media screen and (max-width: 430px) {
     .navbar {
-        padding-left: 35px;
-        padding-right: 35px;
-        padding-top: 20px;
-        overflow-x: hidden;
         z-index: 999;
+    }
+
+    .logo {
+        width: auto;
     }
 
     .hero-container {
